@@ -1,7 +1,6 @@
 # Favorite foods
 
-tuna
-sawdust
-garbage
-caviar
-catnip
+- tuna
+- garbage
+- caviar
+- catnip
